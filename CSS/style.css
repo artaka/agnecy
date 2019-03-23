@@ -1,0 +1,42 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+.menu1 {
+	text-decoration: none;
+	list-style: none;
+	display: flex;
+	color: white;
+	margin-left: 260px;
+	font-size: 18px;
+	text-align: center;
+	padding-left: 0;
+}
+.topmenu {
+	width: 1038px;
+	height: 88px;
+	margin-left: 164px;
+	margin-top: 29px;
+	background-color: #313030;
+}
+.menu2 {
+	padding-left: 25.5px;
+	padding-right: 25.5px;
+	padding-top: 32px;
+	padding-bottom: 32px;
+}
+.menu2:hover {
+	background: #ff3f40;
+	cursor: pointer;
+}
+.topstrong1 {
+	font-size: 50px;
+}
+#topstrong2 {
+	margin-left: 25px;
+}
+.topcontent {
+	margin-left: 163px;
+	margin-top: 108px;
+}
