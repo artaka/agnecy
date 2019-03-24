@@ -2,6 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: 'Open Sans', sans-serif;
+	background: #f6f2f2;
 }
 .menu1 {
 	text-decoration: none;
@@ -43,6 +44,7 @@ body {
 }
 .topcontent {
 	margin-left: 163px;
+	padding-bottom: 145px;
 }
 .vidioimg {
 	float: right;
@@ -68,4 +70,36 @@ body {
 	text-align: center;
 	color: #fff;
 	padding-top: 7px;
+}
+.block2 {
+	background: #fff;
+}
+.block2strong {
+	padding-top: 109px;
+	font-size: 40px;
+	text-transform: uppercase;
+	font-weight: 400;
+	color: #585858;
+	margin-left: 163px;
+}
+.block2p {
+	width: 470px;
+	margin-left: 163px;
+}
+.block2lm {
+	border: 2px solid #ff0000;
+	width: 160px;
+	height: 40px;
+	border-radius: 4px;
+	margin-left: 163px;
+	margin-top: 40px;
+}
+.block2btxt {
+	font-size: 18px;
+	color: #ff0000;
+	text-align: center;
+	padding: 8px;
+}
+.icons {
+	position: absolute;
 }
